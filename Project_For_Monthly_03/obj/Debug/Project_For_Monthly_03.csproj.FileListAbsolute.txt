@@ -1,0 +1,8 @@
+D:\R54\M2\Projects\11\Project_For_Monthly_03\Project_For_Monthly_03\bin\Debug\Project_For_Monthly_03.exe.config
+D:\R54\M2\Projects\11\Project_For_Monthly_03\Project_For_Monthly_03\bin\Debug\Project_For_Monthly_03.exe
+D:\R54\M2\Projects\11\Project_For_Monthly_03\Project_For_Monthly_03\bin\Debug\Project_For_Monthly_03.pdb
+D:\R54\M2\Projects\11\Project_For_Monthly_03\Project_For_Monthly_03\obj\Debug\Project_For_Monthly_03.csproj.AssemblyReference.cache
+D:\R54\M2\Projects\11\Project_For_Monthly_03\Project_For_Monthly_03\obj\Debug\Project_For_Monthly_03.csproj.SuggestedBindingRedirects.cache
+D:\R54\M2\Projects\11\Project_For_Monthly_03\Project_For_Monthly_03\obj\Debug\Project_For_Monthly_03.csproj.CoreCompileInputs.cache
+D:\R54\M2\Projects\11\Project_For_Monthly_03\Project_For_Monthly_03\obj\Debug\Project_For_Monthly_03.exe
+D:\R54\M2\Projects\11\Project_For_Monthly_03\Project_For_Monthly_03\obj\Debug\Project_For_Monthly_03.pdb
